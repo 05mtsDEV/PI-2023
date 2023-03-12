@@ -1,18 +1,22 @@
 # Projeto Integrador
-<h1 align="center">Hi 👋, I'm Mateus Abreu AKA 'el mago do php'</h1>
-<h3 align="center">A passionate backend developer from Brazil.</h3>
+<h1 align="center">Olá, este é o projeto integrador do módulo de desenvolvimento web do meu curso técnico.</h1>
+<h3 align="center">O projeto foi denominado como LOGIS, sigla para Sistema Logísatico Integrado em inglês.</h3>
 
-- 🔭 I’m currently working on **Projeto Integrador 2023**
+- O website foi desenvolvido em parceria com a turma do Técnico em  Administração do Senac NIG. 
 
-- 🌱 I’m currently learning **bootstrap 5, PHP and MySql**
+- O site interativo possui as seguintes tecnologias **bootstrap 5, PHP and MySql**
 
-- 👨‍💻 All of my projects are available at [https://github.com/05mtsDEV](https://github.com/05mtsDEV)
-
-- 💬 Ask me about **php, DBA and MySql**
-
-- 📫 How to reach me **mateus.abreu.tecinfo@gmail.com**
-
-- ⚡ Fun fact **I`am called 'el mago do php' because into PHP i do magic!! LOL**
+- Algumas das funcionalidades deste projeto são: 
+- Responsividade para dispositivos mobile.
+- Integração com banco de dados MySqli.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/05mtsDEV](https://github.com/05mtsDEV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
