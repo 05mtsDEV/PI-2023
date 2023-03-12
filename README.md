@@ -1,8 +1,9 @@
 # Projeto Integrador
 <h1 align="center">Olá, este é o projeto integrador do módulo de desenvolvimento web do meu curso técnico.</h1>
-<h3 align="center">O projeto foi denominado como LOGIS, sigla para Sistema Logísatico Integrado em inglês.</h3>
+<h3 align="center">O projeto foi denominado como LOGIS, sigla para Sistema Logístico Integrado em inglês.</h3>
 
-- O website foi desenvolvido em parceria com a turma do Técnico em  Administração do Senac NIG. 
+- O website foi desenvolvido em parceria com a turma do Técnico em  Administração do Senac NIG.
+- A empresa fictícia que adotou o sistema se chama, Entrega Rápida. 
 
 - O site interativo possui as seguintes tecnologias **bootstrap 5, PHP and MySql**
 
